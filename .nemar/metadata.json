@@ -1,0 +1,138 @@
+{
+  "version": "2.0",
+  "pipeline_stage": "validated",
+  "authors": {
+    "Cristina Polo-Hortiguela": {
+      "orcid": "0009-0008-1841-8209",
+      "affiliations": [
+        {
+          "name": "Universitat de Miguel Hernández d'Elx",
+          "identifier": "https://ror.org/01azzms13",
+          "scheme": "ROR"
+        }
+      ]
+    },
+    "Mario Ortiz": {
+      "orcid": "0000-0002-4269-1554",
+      "affiliations": [
+        {
+          "name": "Universitat de Miguel Hernández d'Elx",
+          "identifier": "https://ror.org/01azzms13",
+          "scheme": "ROR"
+        }
+      ]
+    },
+    "Eduardo Ianez": {
+      "orcid": "0000-0001-8057-5952",
+      "affiliations": [
+        {
+          "name": "Universitat de Miguel Hernández d'Elx",
+          "identifier": "https://ror.org/01azzms13",
+          "scheme": "ROR"
+        }
+      ]
+    },
+    "Jose M. Azorin": {
+      "orcid": "0000-0001-5548-9657",
+      "affiliations": [
+        {
+          "name": "Universitat de Miguel Hernández d'Elx",
+          "identifier": "https://ror.org/01azzms13",
+          "scheme": "ROR"
+        }
+      ]
+    }
+  },
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.14672334",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/nm000302",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/nm000302",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.21105/joss.01896",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "10.1038/s41597-019-0104-8",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    }
+  ],
+  "funding_references": [
+    {
+      "funder_name": "ValgrAI (Generalitat Valenciana, European Union)"
+    },
+    {
+      "funder_name": "Neurokit (ICAR)"
+    },
+    {
+      "funder_name": "MICIU/AEI",
+      "award_number": "PID2021-124111OB-C31"
+    },
+    {
+      "funder_name": "MICIU/AEI",
+      "award_number": "PRE2022-103336"
+    },
+    {
+      "funder_name": "Generalitat Valenciana",
+      "award_title": "ValgrAI"
+    }
+  ],
+  "title": "PoloHortiguela2025",
+  "license": "CC-BY-4.0",
+  "dataset_type": "derivative",
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "eeg"
+  ],
+  "resource_type_specific": "EEG Dataset",
+  "sizes": [
+    "149 MB (133 files)"
+  ],
+  "formats": [
+    ".edf",
+    ".json",
+    ".tsv",
+    ".yaml"
+  ],
+  "description": "Open-loop EEG dataset of lower-limb kinesthetic motor imagery of ankle dorsiflexion and plantarflexion alternated with relaxation, recorded from six healthy participants. Each participant completed two sessions, one with a static and one with a motion lower-limb exoskeleton model. Data were recorded with 28 EEG channels plus EOG and auxiliary channels at 250 Hz and are provided in a BIDS-formatted derivative through MOABB.",
+  "methods_description": "Participants performed cue-based (auditory) kinesthetic motor imagery of ankle dorsiflexion/plantarflexion alternating with rest, in trials of 4 s, over 11 runs per session in two sessions (static and motion exoskeleton). EEG was recorded at 250 Hz from 28 EEG channels with 4 EOG and 3 miscellaneous channels, using a standard_1005 montage.",
+  "keywords": [
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "motor imagery"
+    },
+    {
+      "term": "brain-computer interface"
+    },
+    {
+      "term": "exoskeleton"
+    },
+    {
+      "term": "ankle dorsiflexion"
+    },
+    {
+      "term": "plantar flexion"
+    },
+    {
+      "term": "Electroencephalography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
+    }
+  ],
+  "source_hash": "2f1cca6dda9488e2813c0090876b992ae4f93a7c695742afeddf279554bb5006"
+}
