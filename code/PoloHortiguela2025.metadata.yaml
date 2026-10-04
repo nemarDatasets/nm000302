@@ -1,0 +1,108 @@
+_dataset:
+  class: PoloHortiguela2025
+  code: PoloHortiguela2025
+  doi: 10.5281/zenodo.14672334
+  interval:
+  - 0
+  - 4
+  n_subjects: 6
+  paradigm: imagery
+acquisition:
+  auxiliary_channels:
+    eog_channels: 4
+    eog_type:
+    - vertical
+    - vertical
+    - horizontal
+    - horizontal
+    has_eog: true
+  channel_types:
+    eeg: 28
+    eog: 4
+    misc: 3
+  line_freq: 50.0
+  montage: standard_1005
+  sampling_rate: 250.0
+  sensors:
+  - AF3
+  - F3
+  - Fz
+  - FC3
+  - FC1
+  - FCz
+  - C5
+  - C3
+  - C1
+  - Cz
+  - CP3
+  - CP1
+  - CPz
+  - P3
+  - Pz
+  - PO3
+  - AF4
+  - F4
+  - FC2
+  - FC4
+  - C2
+  - C4
+  - C6
+  - CP2
+  - CP4
+  - P4
+  - POz
+  - PO4
+documentation:
+  country: ES
+  data_url: https://doi.org/10.5281/zenodo.14672334
+  description: Open-loop EEG dataset of lower-limb (ankle dorsiflexion/plantarflexion) kinesthetic motor imagery versus relaxation
+    from six healthy participants, recorded with a static and a motion exoskeleton model.
+  doi: 10.5281/zenodo.14672334
+  funding:
+  - PID2021-124111OB-C31 (MICIU/AEI/10.13039/501100011033, ERDF EU)
+  - PRE2022-103336 (MICIU/AEI/10.13039/501100011033)
+  - ValgrAI (Generalitat Valenciana, European Union)
+  - Neurokit (ICAR)
+  institution: Universidad Miguel Hernandez de Elche
+  investigators:
+  - Cristina Polo-Hortiguela
+  - Mario Ortiz
+  - Eduardo Ianez
+  - Jose M. Azorin
+  license: CC-BY-4.0
+  publication_year: 2025
+  repository: Zenodo
+experiment:
+  class_labels:
+  - rest
+  - motor_imagery
+  events:
+    motor_imagery: 2
+    rest: 1
+  mode: offline
+  n_classes: 2
+  paradigm: imagery
+  stimulus_modalities:
+  - audio
+  stimulus_type: auditory
+  study_design: Kinesthetic motor imagery of ankle dorsiflexion/plantarflexion alternated with relaxation, with a static or
+    motion lower-limb exoskeleton.
+  synchronicity: cue-based
+  trial_duration: 4.0
+file_format: MAT
+participants:
+  health_status: healthy
+  n_subjects: 6
+  species: homo sapiens
+runs_per_session: 11
+sessions:
+- 0static
+- 1motion
+sessions_per_subject: 2
+tags:
+  modality:
+  - motor
+  pathology:
+  - healthy
+  type:
+  - imagery

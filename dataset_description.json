@@ -1,0 +1,43 @@
+{
+    "Name": "PoloHortiguela2025",
+    "BIDSVersion": "1.9.0",
+    "HEDVersion": "8.4.0",
+    "DatasetType": "derivative",
+    "License": "CC-BY-4.0",
+    "Authors": [
+        "Cristina Polo-Hortiguela",
+        "Mario Ortiz",
+        "Eduardo Ianez",
+        "Jose M. Azorin"
+    ],
+    "Funding": [
+        "PID2021-124111OB-C31 (MICIU/AEI/10.13039/501100011033, ERDF EU)",
+        "PRE2022-103336 (MICIU/AEI/10.13039/501100011033)",
+        "ValgrAI (Generalitat Valenciana, European Union)",
+        "Neurokit (ICAR)"
+    ],
+    "ReferencesAndLinks": [
+        "https://doi.org/10.5281/zenodo.14672334"
+    ],
+    "Keywords": [
+        "healthy",
+        "motor",
+        "imagery"
+    ],
+    "DatasetDOI": "doi:10.5281/zenodo.14672334",
+    "GeneratedBy": [
+        {
+            "CodeURL": "https://github.com/NeuroTechX/moabb",
+            "Name": "moabb",
+            "Description": "Mother of All BCI Benchmarks",
+            "Version": "1.8.0dev0"
+        }
+    ],
+    "SourceDatasets": [
+        {
+            "DOI": "10.5281/zenodo.14672334",
+            "URL": "https://doi.org/10.5281/zenodo.14672334"
+        }
+    ],
+    "PublicationYear": 2025
+}
