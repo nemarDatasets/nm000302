@@ -1,5 +1,5 @@
 {
-    "Name": "PoloHortiguela2025",
+    "Name": "PoloHortiguela2025: Motor imagery of ankle dorsiflexion/plantarflexion dataset",
     "BIDSVersion": "1.9.0",
     "HEDVersion": "8.4.0",
     "DatasetType": "derivative",
@@ -39,5 +39,8 @@
             "URL": "https://doi.org/10.5281/zenodo.14672334"
         }
     ],
-    "PublicationYear": 2025
+    "PublicationYear": 2025,
+    "EthicsApprovals": [
+        "See the primary publication cited in the README/ReferencesAndLinks for the ethics approval statement obtained by the original investigators; no new human-subject data were collected for this BIDS re-release."
+    ]
 }
