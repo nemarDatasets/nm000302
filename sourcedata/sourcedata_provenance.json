@@ -1,1 +1,807 @@
-../.git/annex/objects/V0/29/SHA256E-s25180--31c30e46cb14e8bc7213c9b47853a875cbb178f4277db611d9c84e07368a0f8a.json/SHA256E-s25180--31c30e46cb14e8bc7213c9b47853a875cbb178f4277db611d9c84e07368a0f8a.json
+{
+ "dataset": "nm000302",
+ "moabb_class": "PoloHortiguela2025",
+ "moabb_version_used": "v1.7.1-11-g9c6b1cc",
+ "retrieved": "2026-10-05",
+ "retrieved_by": "moabb.datasets.PoloHortiguela2025.data_path()",
+ "upstream_cache_root": "/voyager/ceph/groups/sdp190/bpinto/moabb-nemar/mne_data/PoloHortiguela2025/MNE-polohortiguela2025-data",
+ "license": "CC-BY-4.0",
+ "doi": "10.5281/zenodo.14672334",
+ "naming": "upstream_filenames_restored",
+ "n_files": 132,
+ "total_bytes": 2938626858,
+ "files": [
+  {
+   "file": "B01_S1_MOTION/B01_20230608_openloop_01.mat",
+   "bytes": 22255867,
+   "sha256": "8c1a142ec262d0c87de17681f42f92d447d945dc11be2fff47e285e1a5e1759f",
+   "subject": "1"
+  },
+  {
+   "file": "B01_S1_MOTION/B01_20230608_openloop_02.mat",
+   "bytes": 22255001,
+   "sha256": "b759ae747e7ca2a74c1194fb28c5f4fb8681f8ef9171448ae7e3da77d7911d7b",
+   "subject": "1"
+  },
+  {
+   "file": "B01_S1_MOTION/B01_20230608_openloop_03.mat",
+   "bytes": 22220769,
+   "sha256": "9ec3c8e26fb37356d4429ca570005a10af57fd06e68ef34ff9a3a7f5e8ce1ebc",
+   "subject": "1"
+  },
+  {
+   "file": "B01_S1_MOTION/B01_20230608_openloop_04.mat",
+   "bytes": 22196727,
+   "sha256": "a97e0fe8d36d88f4cf7771e49b4c21ff331099d686f3621e917dc647d82e8850",
+   "subject": "1"
+  },
+  {
+   "file": "B01_S1_MOTION/B01_20230608_openloop_05.mat",
+   "bytes": 22183250,
+   "sha256": "05da55acebab1a38415bd0b3fd93e242f45af5b97c3b7e0f005d8bf5cfa42fda",
+   "subject": "1"
+  },
+  {
+   "file": "B01_S1_MOTION/B01_20230608_openloop_06.mat",
+   "bytes": 22237164,
+   "sha256": "c79a13d0612cbc1c5d149c5ae554e0be671810a57d3d151358ebd6b52f711045",
+   "subject": "1"
+  },
+  {
+   "file": "B01_S1_MOTION/B01_20230608_openloop_07.mat",
+   "bytes": 22240531,
+   "sha256": "f86dce18bb328ca7abb8211809005735257dac6b8eb2ecfdcefaab68210ceaf5",
+   "subject": "1"
+  },
+  {
+   "file": "B01_S1_MOTION/B01_20230608_openloop_08.mat",
+   "bytes": 22262119,
+   "sha256": "28290f294907beff791762e3c88543c88e9d2fdf95f7275b9a967acbd415032f",
+   "subject": "1"
+  },
+  {
+   "file": "B01_S1_MOTION/B01_20230608_openloop_09.mat",
+   "bytes": 22252416,
+   "sha256": "192ee4af856b9b0b5d149e74d891a8129315824a825c125716acfe5155e5137c",
+   "subject": "1"
+  },
+  {
+   "file": "B01_S1_MOTION/B01_20230608_openloop_10.mat",
+   "bytes": 22202292,
+   "sha256": "80af86c061963968e271193002bab0080cfa83dedd0efd2e7c7f26084688f839",
+   "subject": "1"
+  },
+  {
+   "file": "B01_S1_MOTION/B01_20230608_openloop_11.mat",
+   "bytes": 22252014,
+   "sha256": "a5edb12c4efe322fd09102d8904c96ac1cb4bf899855dde27f91771c970ba222",
+   "subject": "1"
+  },
+  {
+   "file": "B01_S1_STATIC/B01_20230608_openloop_01.mat",
+   "bytes": 22250111,
+   "sha256": "d1cf51df14316899bafc6b4f9663b8f9e1e032d5567da3bd59adc7361a4f1814",
+   "subject": "1"
+  },
+  {
+   "file": "B01_S1_STATIC/B01_20230608_openloop_02.mat",
+   "bytes": 22269586,
+   "sha256": "dfcff620cac656fdedc156a3bf1dc931d2c15e0685a2786c861a9d2409019e02",
+   "subject": "1"
+  },
+  {
+   "file": "B01_S1_STATIC/B01_20230608_openloop_03.mat",
+   "bytes": 22125617,
+   "sha256": "6052f9b526fa0aaf9ba12291518ef440f38ef41ffde5b13ef87c1fabe1dbfae2",
+   "subject": "1"
+  },
+  {
+   "file": "B01_S1_STATIC/B01_20230608_openloop_04.mat",
+   "bytes": 22196460,
+   "sha256": "bb8607dbc70d719bcf9b3476abfa44277e623dcbbebbb62a46b7f8fbfd189faa",
+   "subject": "1"
+  },
+  {
+   "file": "B01_S1_STATIC/B01_20230608_openloop_05.mat",
+   "bytes": 22230857,
+   "sha256": "8b24cc97ff1f1b2a1cd3ff84c5ca6e293e4f5e5fe704723b2d37097ede0199f5",
+   "subject": "1"
+  },
+  {
+   "file": "B01_S1_STATIC/B01_20230608_openloop_06.mat",
+   "bytes": 22256965,
+   "sha256": "fe34aa3ca487f12080cc5cd9ac2201c38dbd54b8adbaf58babeb2b90f6c990d5",
+   "subject": "1"
+  },
+  {
+   "file": "B01_S1_STATIC/B01_20230608_openloop_07.mat",
+   "bytes": 22255216,
+   "sha256": "b31cd55eb024dbe9ace860b323f87a2a77f8266a23d020cd596151f5214ec693",
+   "subject": "1"
+  },
+  {
+   "file": "B01_S1_STATIC/B01_20230608_openloop_08.mat",
+   "bytes": 22272669,
+   "sha256": "e347533f9c62ba3748cbf5705de87e59985d8daaf89d4927e84981a6db41db39",
+   "subject": "1"
+  },
+  {
+   "file": "B01_S1_STATIC/B01_20230608_openloop_09.mat",
+   "bytes": 22261156,
+   "sha256": "653df34c232bac63d3f957e06c36f6fc1aeecb5fe20621770b4ad7586ea879a5",
+   "subject": "1"
+  },
+  {
+   "file": "B01_S1_STATIC/B01_20230608_openloop_10.mat",
+   "bytes": 22264941,
+   "sha256": "01ea8c7c8a5cecd786b7ab356780a900d0dbd5f07f7ac412738512918f31e1ed",
+   "subject": "1"
+  },
+  {
+   "file": "B01_S1_STATIC/B01_20230608_openloop_11.mat",
+   "bytes": 22252455,
+   "sha256": "5ddf6c3ccb83f142f5651fe1dcf9b43305d014200f8ff4da4224028371d27eca",
+   "subject": "1"
+  },
+  {
+   "file": "B02_S1_MOTION/B02_20230605_openloop_01.mat",
+   "bytes": 22216628,
+   "sha256": "54041364c7ed76f988061d24395b276b6ec4ad5c91d4a5413bd4df9b5b49e24b",
+   "subject": "2"
+  },
+  {
+   "file": "B02_S1_MOTION/B02_20230605_openloop_02.mat",
+   "bytes": 22314262,
+   "sha256": "9e2d535c91bbb55204b79f99c803a75d20a924235f78bfd20d50ca617b90d419",
+   "subject": "2"
+  },
+  {
+   "file": "B02_S1_MOTION/B02_20230605_openloop_03.mat",
+   "bytes": 22315733,
+   "sha256": "09e4faa6642663ddbf3fb9a961d70cf15458f6a19427be992bb7669c6ec5b114",
+   "subject": "2"
+  },
+  {
+   "file": "B02_S1_MOTION/B02_20230605_openloop_04.mat",
+   "bytes": 22302184,
+   "sha256": "6882d55558c5cbdfee17a7163151887ae69ef31295a8137536ac6d41e58b53b8",
+   "subject": "2"
+  },
+  {
+   "file": "B02_S1_MOTION/B02_20230605_openloop_05.mat",
+   "bytes": 22295636,
+   "sha256": "b4565d4faf8cfc996372810bdd6fd0a0a601aca6f9e1f4b9cc92d7549ebf9c2f",
+   "subject": "2"
+  },
+  {
+   "file": "B02_S1_MOTION/B02_20230605_openloop_06.mat",
+   "bytes": 22302739,
+   "sha256": "1a0befe96ff2db2c0073bae78f51bba363d4603ed75babf07782c18df6f72fb1",
+   "subject": "2"
+  },
+  {
+   "file": "B02_S1_MOTION/B02_20230605_openloop_07.mat",
+   "bytes": 22327715,
+   "sha256": "4ab67eec68934e15d948cfc79b57cb200d1d7b4336d934c057f09618a6848949",
+   "subject": "2"
+  },
+  {
+   "file": "B02_S1_MOTION/B02_20230605_openloop_08.mat",
+   "bytes": 22314671,
+   "sha256": "f630439899032821003b4a8bd402ca37cb82de172c065b7c208a1381e11d971a",
+   "subject": "2"
+  },
+  {
+   "file": "B02_S1_MOTION/B02_20230605_openloop_09.mat",
+   "bytes": 22310107,
+   "sha256": "d4923652f13509d20cea8552875ce51a41dad2808f4274e8bc7ff968c34bca88",
+   "subject": "2"
+  },
+  {
+   "file": "B02_S1_MOTION/B02_20230605_openloop_10.mat",
+   "bytes": 22248030,
+   "sha256": "1d50e8a80413659e2aa6e2d5813752023046e41a41f77345f3e1894d079adadf",
+   "subject": "2"
+  },
+  {
+   "file": "B02_S1_MOTION/B02_20230605_openloop_11.mat",
+   "bytes": 22258684,
+   "sha256": "61f6d1ff26ec50446f899eb5d4373e222aa551fca4693c71fc3c8cc471727ad8",
+   "subject": "2"
+  },
+  {
+   "file": "B02_S1_STATIC/B02_20230605_openloop_01.mat",
+   "bytes": 22280391,
+   "sha256": "b0354ad4e0bc3a7f03963c1b740e43118fe34d32911b7abde14381d80143c6b4",
+   "subject": "2"
+  },
+  {
+   "file": "B02_S1_STATIC/B02_20230605_openloop_02.mat",
+   "bytes": 22315938,
+   "sha256": "f7b5b8b6bd1418b3a139cc5278eb5aef8cd3a9c222fa57645df7c83cefc4445b",
+   "subject": "2"
+  },
+  {
+   "file": "B02_S1_STATIC/B02_20230605_openloop_03.mat",
+   "bytes": 22286596,
+   "sha256": "46e6d80061cd95a56e9b249987a963e466918dc3fccebfbc26cab3e39aa13f40",
+   "subject": "2"
+  },
+  {
+   "file": "B02_S1_STATIC/B02_20230605_openloop_04.mat",
+   "bytes": 22303732,
+   "sha256": "965b461968deef28a2e46d9ab61bc8c6383f88c3c26a80212bea317b5a47b539",
+   "subject": "2"
+  },
+  {
+   "file": "B02_S1_STATIC/B02_20230605_openloop_05.mat",
+   "bytes": 22301768,
+   "sha256": "1b73edba5dd659461c7116ed5906525051861c27779a9cba32077c9fe798a29a",
+   "subject": "2"
+  },
+  {
+   "file": "B02_S1_STATIC/B02_20230605_openloop_06.mat",
+   "bytes": 22300587,
+   "sha256": "fa9b32a3e92e8ef9e366b133ca63d3846042ce0aba4f3619942f5b13eace3c89",
+   "subject": "2"
+  },
+  {
+   "file": "B02_S1_STATIC/B02_20230605_openloop_07.mat",
+   "bytes": 22318320,
+   "sha256": "08b470f095ec798f9da5477d480e117784e3dc3472a71b5b39aaf61d74aae1a3",
+   "subject": "2"
+  },
+  {
+   "file": "B02_S1_STATIC/B02_20230605_openloop_08.mat",
+   "bytes": 22301451,
+   "sha256": "d38fd5c5a928bc95182103261f87a9446c03a86231abddaf04d3cd6cfd59b434",
+   "subject": "2"
+  },
+  {
+   "file": "B02_S1_STATIC/B02_20230605_openloop_09.mat",
+   "bytes": 22264553,
+   "sha256": "91fceb5d32f66616b6d4595cc867a45337345fe5e53b6a600e53c36e461287d2",
+   "subject": "2"
+  },
+  {
+   "file": "B02_S1_STATIC/B02_20230605_openloop_10.mat",
+   "bytes": 22298555,
+   "sha256": "9a153188a633e65bd08d2f6f5643b7ae92a6cd963367fa198a76b850a4399ce7",
+   "subject": "2"
+  },
+  {
+   "file": "B02_S1_STATIC/B02_20230605_openloop_11.mat",
+   "bytes": 22128529,
+   "sha256": "52fb72ebe0c0b1136ab565c9f8b890319b0765ff4a8cff958d8cc5d01e5f99fb",
+   "subject": "2"
+  },
+  {
+   "file": "B03_S1_MOTION/B03_20230921_openloop_01.mat",
+   "bytes": 22278525,
+   "sha256": "644673edab94966890df900215c2bb227df7a166a0d83eaadb7dcb93fcfceea4",
+   "subject": "3"
+  },
+  {
+   "file": "B03_S1_MOTION/B03_20230921_openloop_02.mat",
+   "bytes": 22293438,
+   "sha256": "42526da60ebe49d545125d0844b621fe6307d100355b37b276d25dd3c2472524",
+   "subject": "3"
+  },
+  {
+   "file": "B03_S1_MOTION/B03_20230921_openloop_03.mat",
+   "bytes": 22285116,
+   "sha256": "4034c854f294377d0ddecec8112e7463a207a4151e02c92def9bd47305f25d0e",
+   "subject": "3"
+  },
+  {
+   "file": "B03_S1_MOTION/B03_20230921_openloop_04.mat",
+   "bytes": 22268823,
+   "sha256": "faa1cbae95e55c96d17b7514d38752d745c9d354e06da6dda1416f807d2cfe40",
+   "subject": "3"
+  },
+  {
+   "file": "B03_S1_MOTION/B03_20230921_openloop_05.mat",
+   "bytes": 22299683,
+   "sha256": "1cf7f532bd12096c82bd9b096bcbd3048c96cb2a336145baa2f9782859c88764",
+   "subject": "3"
+  },
+  {
+   "file": "B03_S1_MOTION/B03_20230921_openloop_06.mat",
+   "bytes": 22301007,
+   "sha256": "e199d1ae9dfe88ba304846d0ecfa67cbd48b4a2b55eb46f94c056eb6fb793f56",
+   "subject": "3"
+  },
+  {
+   "file": "B03_S1_MOTION/B03_20230921_openloop_07.mat",
+   "bytes": 22283659,
+   "sha256": "90816572633b8295b5efad4178cb18586ff7b70c9e66996b8220a521f128b029",
+   "subject": "3"
+  },
+  {
+   "file": "B03_S1_MOTION/B03_20230921_openloop_08.mat",
+   "bytes": 22252144,
+   "sha256": "571e68f9f84dc1c2b3ac63ddf304f093268957c7abce821b60cdc8328b328fc9",
+   "subject": "3"
+  },
+  {
+   "file": "B03_S1_MOTION/B03_20230921_openloop_09.mat",
+   "bytes": 22204719,
+   "sha256": "19cc50677570da80307cccae99072492511bdd377b315649a98e26e0e5e596d3",
+   "subject": "3"
+  },
+  {
+   "file": "B03_S1_MOTION/B03_20230921_openloop_10.mat",
+   "bytes": 22179703,
+   "sha256": "cb0b90eb46b3179636d6e23e6303e95446840fdc1c9fc5df4648cb8554c4c30e",
+   "subject": "3"
+  },
+  {
+   "file": "B03_S1_MOTION/B03_20230921_openloop_11.mat",
+   "bytes": 22188992,
+   "sha256": "c0515fb1a68c9a2be631244debe5d3ee8183c79bce71d1c427057c3ab87314ac",
+   "subject": "3"
+  },
+  {
+   "file": "B03_S1_STATIC/B03_20230921_openloop_01.mat",
+   "bytes": 22267584,
+   "sha256": "a39b8684804c64e9c09adb96b087f976a0bb6071abdf95cd1cdff2654acefe8c",
+   "subject": "3"
+  },
+  {
+   "file": "B03_S1_STATIC/B03_20230921_openloop_02.mat",
+   "bytes": 22292196,
+   "sha256": "9d0255db46c7ef8d8c63139a9e0de125d9ab5b5eca81beb117081986f6fbf7a6",
+   "subject": "3"
+  },
+  {
+   "file": "B03_S1_STATIC/B03_20230921_openloop_03.mat",
+   "bytes": 22278138,
+   "sha256": "da43b79ec55915a6322f103a347b33f0a885719ddd7bccfa7ab51c0fd044ad2d",
+   "subject": "3"
+  },
+  {
+   "file": "B03_S1_STATIC/B03_20230921_openloop_04.mat",
+   "bytes": 22274939,
+   "sha256": "723762e3927ba7d85a64fb7f61c783e4061addb13fe3d260d4ad65205ea23156",
+   "subject": "3"
+  },
+  {
+   "file": "B03_S1_STATIC/B03_20230921_openloop_05.mat",
+   "bytes": 22283023,
+   "sha256": "b783bcb8062f124cacea8f247932f5e5e06149a6fa9f78b920ef4c35d4b856cf",
+   "subject": "3"
+  },
+  {
+   "file": "B03_S1_STATIC/B03_20230921_openloop_06.mat",
+   "bytes": 22311384,
+   "sha256": "4822c5eac46a21ed30a72205bc6758ac8ece056aa413a3ab7bbb8f75acdc5fff",
+   "subject": "3"
+  },
+  {
+   "file": "B03_S1_STATIC/B03_20230921_openloop_07.mat",
+   "bytes": 22283358,
+   "sha256": "25e7949b09e46ca1dc90a85e3000ae88ae085739048f0e962d41a55c8a99f208",
+   "subject": "3"
+  },
+  {
+   "file": "B03_S1_STATIC/B03_20230921_openloop_08.mat",
+   "bytes": 22235398,
+   "sha256": "c50c732d5e2ae2a657dc985636eeea8aef985665ab5f693193d5a6de684a4b67",
+   "subject": "3"
+  },
+  {
+   "file": "B03_S1_STATIC/B03_20230921_openloop_09.mat",
+   "bytes": 22202013,
+   "sha256": "3b4e1920c5947fc7d0080bef5a34c7aa640a287c4e991d1dc5eea1b5fdd332b1",
+   "subject": "3"
+  },
+  {
+   "file": "B03_S1_STATIC/B03_20230921_openloop_10.mat",
+   "bytes": 22196697,
+   "sha256": "7e8422b82aff2d43e3eaa239298ee4823c464bd856a8294659525bd8bfe0eac2",
+   "subject": "3"
+  },
+  {
+   "file": "B03_S1_STATIC/B03_20230921_openloop_11.mat",
+   "bytes": 22207231,
+   "sha256": "a259ec8952fae20f8ccdca4520947b01df97abe8d55da274e5e4d9f174eb2b33",
+   "subject": "3"
+  },
+  {
+   "file": "B04_S1_MOTION/B04_20230612_openloop_01.mat",
+   "bytes": 22262997,
+   "sha256": "62ccf2d5220f5cb651c414168fe222b457fc991e85e49c8e1353928e9e6226c9",
+   "subject": "4"
+  },
+  {
+   "file": "B04_S1_MOTION/B04_20230612_openloop_02.mat",
+   "bytes": 22199779,
+   "sha256": "ebb128856e90f824cb2c9df97c13c118bec0ef850157720188e585303ffe3450",
+   "subject": "4"
+  },
+  {
+   "file": "B04_S1_MOTION/B04_20230612_openloop_03.mat",
+   "bytes": 22274254,
+   "sha256": "f286092efe59816b533e7ad9e3aa0b96bf87b23fe5fcb14cf1d5b6bd18e54bb5",
+   "subject": "4"
+  },
+  {
+   "file": "B04_S1_MOTION/B04_20230612_openloop_04.mat",
+   "bytes": 22278300,
+   "sha256": "633abf4dd4b8a77bb4c2c349afb3a092913c4918e9b427898dd4b87ce14ba859",
+   "subject": "4"
+  },
+  {
+   "file": "B04_S1_MOTION/B04_20230612_openloop_05.mat",
+   "bytes": 22252710,
+   "sha256": "e60337458fd3e2ecc846f1895660c45311a102a82111cd8dcc9e7de21023c165",
+   "subject": "4"
+  },
+  {
+   "file": "B04_S1_MOTION/B04_20230612_openloop_06.mat",
+   "bytes": 22282324,
+   "sha256": "12c23910b748dcdf8d6cc50a68de2ec85d0e46710d4f9a99c2ae2c8da96e4fda",
+   "subject": "4"
+  },
+  {
+   "file": "B04_S1_MOTION/B04_20230612_openloop_07.mat",
+   "bytes": 22276503,
+   "sha256": "232136d3e292373d437f12f3274cdcf9194eed1ed6b76db03a8818cb3ec07a15",
+   "subject": "4"
+  },
+  {
+   "file": "B04_S1_MOTION/B04_20230612_openloop_08.mat",
+   "bytes": 22267068,
+   "sha256": "125ee0426342138223259b3e5bbbc7610becd49179d4d2152681a22c1292e7ba",
+   "subject": "4"
+  },
+  {
+   "file": "B04_S1_MOTION/B04_20230612_openloop_09.mat",
+   "bytes": 22251665,
+   "sha256": "56dd2c73e43723b94fbd531e427f555d7cc01849276744285c899377f7c86aed",
+   "subject": "4"
+  },
+  {
+   "file": "B04_S1_MOTION/B04_20230612_openloop_10.mat",
+   "bytes": 22272399,
+   "sha256": "43bc0c04951c32d0511142c91169673b0f6496712c907584f7296e7f4fbfc889",
+   "subject": "4"
+  },
+  {
+   "file": "B04_S1_MOTION/B04_20230612_openloop_11.mat",
+   "bytes": 22281397,
+   "sha256": "379119e768db48013d24b58a475595ab6834dbb5164d16e764626d4af9b9877e",
+   "subject": "4"
+  },
+  {
+   "file": "B04_S1_STATIC/B04_20230612_openloop_01.mat",
+   "bytes": 22263666,
+   "sha256": "50efe5eae054a5c52383bbf312a4a18cc3b0ce8018f178fceb0d8896950cdc0f",
+   "subject": "4"
+  },
+  {
+   "file": "B04_S1_STATIC/B04_20230612_openloop_02.mat",
+   "bytes": 22239433,
+   "sha256": "c6c0ab778d6a222a49af43ee26a00664eb78330172282f639f9c16f94aa6763d",
+   "subject": "4"
+  },
+  {
+   "file": "B04_S1_STATIC/B04_20230612_openloop_03.mat",
+   "bytes": 22188637,
+   "sha256": "595e6e0e7d75a33a4d11cdeb86460509c0429e4a1b9440ef83865db70b503aa0",
+   "subject": "4"
+  },
+  {
+   "file": "B04_S1_STATIC/B04_20230612_openloop_04.mat",
+   "bytes": 22255967,
+   "sha256": "893163a2133e3ce8a6baa4f022eb8bc42b893608c5286318b3d97e7bf7f8f1ad",
+   "subject": "4"
+  },
+  {
+   "file": "B04_S1_STATIC/B04_20230612_openloop_05.mat",
+   "bytes": 22235077,
+   "sha256": "9f223d7ae964fb854164d8b484ae87dfe2be6dcb88ab7cfec5f70865d7d5aaf3",
+   "subject": "4"
+  },
+  {
+   "file": "B04_S1_STATIC/B04_20230612_openloop_06.mat",
+   "bytes": 22243185,
+   "sha256": "40e60beec0bde2a3ba3b66921e0e697b306cb8c37d08e516cbe9e71606bd5a99",
+   "subject": "4"
+  },
+  {
+   "file": "B04_S1_STATIC/B04_20230612_openloop_07.mat",
+   "bytes": 22264779,
+   "sha256": "fff07fa7795cbe6d986cb6a7e5d77e03be22322b82766140b6e6af7a8ab62c9b",
+   "subject": "4"
+  },
+  {
+   "file": "B04_S1_STATIC/B04_20230612_openloop_08.mat",
+   "bytes": 22277530,
+   "sha256": "3fdc8a6ce80e03db1137afbc8fd4fdf1f73742048690a9dc800afda93f7c0593",
+   "subject": "4"
+  },
+  {
+   "file": "B04_S1_STATIC/B04_20230612_openloop_09.mat",
+   "bytes": 22252825,
+   "sha256": "8783ccd1c9bc284283018ca816c5c0f114739a8d70548f55274de38bcedfeb2b",
+   "subject": "4"
+  },
+  {
+   "file": "B04_S1_STATIC/B04_20230612_openloop_10.mat",
+   "bytes": 22271666,
+   "sha256": "218178c166eaf879f896d945fb6ca8e52180ba939245006cd15509e395dd1a3e",
+   "subject": "4"
+  },
+  {
+   "file": "B04_S1_STATIC/B04_20230612_openloop_11.mat",
+   "bytes": 22268432,
+   "sha256": "386474bfd1cdf477db58b2465bf82ad7f53c059074fd3faff4321452b41c2ba1",
+   "subject": "4"
+  },
+  {
+   "file": "B05_S1_MOTION/B05_20230706_openloop_01.mat",
+   "bytes": 22317179,
+   "sha256": "267770239774a994be6bb381f24598732a5d0d23a6615485f12a988ffd98284b",
+   "subject": "5"
+  },
+  {
+   "file": "B05_S1_MOTION/B05_20230706_openloop_02.mat",
+   "bytes": 22302559,
+   "sha256": "e15bfea70a448ecaf3982009255262fa43f146784a1e755da125ab8bd6cb85c7",
+   "subject": "5"
+  },
+  {
+   "file": "B05_S1_MOTION/B05_20230706_openloop_03.mat",
+   "bytes": 22224151,
+   "sha256": "5eeb0559b553aad001edab38c7588b7a122b7276629ebd31e051ecdddd332475",
+   "subject": "5"
+  },
+  {
+   "file": "B05_S1_MOTION/B05_20230706_openloop_04.mat",
+   "bytes": 22290234,
+   "sha256": "cd2d0d9ed50c2802756e68d3f2b575276c6531ef13861b91208a88f0d33dde4d",
+   "subject": "5"
+  },
+  {
+   "file": "B05_S1_MOTION/B05_20230706_openloop_05.mat",
+   "bytes": 22307881,
+   "sha256": "08de2660540ee1fc7706bf243baf13c016176d32bef7840fdd4420c4d4aa0eaf",
+   "subject": "5"
+  },
+  {
+   "file": "B05_S1_MOTION/B05_20230706_openloop_06.mat",
+   "bytes": 22338852,
+   "sha256": "2dad663af69dafc0e5f4af518ad66b707bfc7804ce5086ce3e9d503b3c18e928",
+   "subject": "5"
+  },
+  {
+   "file": "B05_S1_MOTION/B05_20230706_openloop_07.mat",
+   "bytes": 22308289,
+   "sha256": "fc01bdcaea85ce0cff9465af2ab0f3a24d7b6333bd4296ab36bc2154fab0575e",
+   "subject": "5"
+  },
+  {
+   "file": "B05_S1_MOTION/B05_20230706_openloop_08.mat",
+   "bytes": 22354724,
+   "sha256": "cdcf4b1b1d3d72690338c7f1aabf848dede2e6ffa48ed34415f1b8634f1cbda3",
+   "subject": "5"
+  },
+  {
+   "file": "B05_S1_MOTION/B05_20230706_openloop_09.mat",
+   "bytes": 22342857,
+   "sha256": "9d1e52c8937c6e8f320335c3e97e8f0dc005325c41a2697498e586c356713150",
+   "subject": "5"
+  },
+  {
+   "file": "B05_S1_MOTION/B05_20230706_openloop_10.mat",
+   "bytes": 22328000,
+   "sha256": "958f29d8e03eeeaccd7b985903be96eb2ed15bae933707e10aa34f0184f95a88",
+   "subject": "5"
+  },
+  {
+   "file": "B05_S1_MOTION/B05_20230706_openloop_11.mat",
+   "bytes": 22308814,
+   "sha256": "512bc047c5c690aa3b6c7acc0715a8a9cf1bddb2a80e0bfe1bec0ce1a56d4a4e",
+   "subject": "5"
+  },
+  {
+   "file": "B05_S1_STATIC/B05_20230706_openloop_01.mat",
+   "bytes": 22314261,
+   "sha256": "d7c28d409a975354e3bd1484512a8c65eb3622e3443ee8257db3351f7b74ccc9",
+   "subject": "5"
+  },
+  {
+   "file": "B05_S1_STATIC/B05_20230706_openloop_02.mat",
+   "bytes": 22315689,
+   "sha256": "6c05a21035e8a22a01083d1fab0c5f787e49221476e1e6f7504ac1ed007fe533",
+   "subject": "5"
+  },
+  {
+   "file": "B05_S1_STATIC/B05_20230706_openloop_03.mat",
+   "bytes": 22290243,
+   "sha256": "8d39c09997900e19ddff9290b6f874cb8ab340ab168cf24ab57a9cb5d8fb33c9",
+   "subject": "5"
+  },
+  {
+   "file": "B05_S1_STATIC/B05_20230706_openloop_04.mat",
+   "bytes": 22325230,
+   "sha256": "8bccadf9a0eecf7b0ce8e9cfe99f5661d9b832f6996cd3dea9e873e69fc6f29b",
+   "subject": "5"
+  },
+  {
+   "file": "B05_S1_STATIC/B05_20230706_openloop_05.mat",
+   "bytes": 22300055,
+   "sha256": "07e0c75869b0b7556a54486fd72bb534647e26116b4ec588798f99ec92f9a373",
+   "subject": "5"
+  },
+  {
+   "file": "B05_S1_STATIC/B05_20230706_openloop_06.mat",
+   "bytes": 22307201,
+   "sha256": "f2cec83b0775a3883770344373452f08433407f00b78d4c79c1e25fa6e5e67aa",
+   "subject": "5"
+  },
+  {
+   "file": "B05_S1_STATIC/B05_20230706_openloop_07.mat",
+   "bytes": 22371033,
+   "sha256": "da001b670d91b39549684e27233fa92748c1a188a8fa88fc46dbd52dbc8f9ff5",
+   "subject": "5"
+  },
+  {
+   "file": "B05_S1_STATIC/B05_20230706_openloop_08.mat",
+   "bytes": 22353355,
+   "sha256": "ce936c96a736b03e27321227e0e381ad23d3ebe89b56123c79c1162a734e2695",
+   "subject": "5"
+  },
+  {
+   "file": "B05_S1_STATIC/B05_20230706_openloop_09.mat",
+   "bytes": 22335416,
+   "sha256": "fa47025f5520df5e7f7ed0ecc67d29ac0e82023497548dd394e40b8c3c48a7df",
+   "subject": "5"
+  },
+  {
+   "file": "B05_S1_STATIC/B05_20230706_openloop_10.mat",
+   "bytes": 22343465,
+   "sha256": "42d940233ff027b93255f772d7ed30e6a0a3554f37990e47263ee4bc883ee183",
+   "subject": "5"
+  },
+  {
+   "file": "B05_S1_STATIC/B05_20230706_openloop_11.mat",
+   "bytes": 22258325,
+   "sha256": "d2a5d80533889c18d568e0219bbf8ae7c35a7906ab5d993c8974eb231dd0b61d",
+   "subject": "5"
+  },
+  {
+   "file": "B06_S1_MOTION/B07_20240118_openloop_01.mat",
+   "bytes": 22195459,
+   "sha256": "236e409294888a08f503c6c2c11a5833167128d1a776fd7230e4d7f1edd04f22",
+   "subject": "6"
+  },
+  {
+   "file": "B06_S1_MOTION/B07_20240118_openloop_02.mat",
+   "bytes": 22257874,
+   "sha256": "39b0760bf06701a759af20bb783192bcb08c684a4a258df21cb1bf1d2a9e1e79",
+   "subject": "6"
+  },
+  {
+   "file": "B06_S1_MOTION/B07_20240118_openloop_03.mat",
+   "bytes": 22209629,
+   "sha256": "32737edbd3a7b3005dcae7574825fd0cb4bac9a3f6861176f487ed69ba1f874b",
+   "subject": "6"
+  },
+  {
+   "file": "B06_S1_MOTION/B07_20240118_openloop_04.mat",
+   "bytes": 22253883,
+   "sha256": "671d834647aa16c570ef331b0090ddf318e9abe975346782196f1a0401edb98d",
+   "subject": "6"
+  },
+  {
+   "file": "B06_S1_MOTION/B07_20240118_openloop_05.mat",
+   "bytes": 22234903,
+   "sha256": "573f1110e406ffc842d8390cce5820d8f0080eab6f86a2b47491daa1dd5c7d45",
+   "subject": "6"
+  },
+  {
+   "file": "B06_S1_MOTION/B07_20240118_openloop_06.mat",
+   "bytes": 22079543,
+   "sha256": "6a37e51e2fc104733d9bbe0370f572b7adc89331f73fb8ee9bb1221721fbcde3",
+   "subject": "6"
+  },
+  {
+   "file": "B06_S1_MOTION/B07_20240118_openloop_07.mat",
+   "bytes": 22253774,
+   "sha256": "39d3a714f0d3693d78578bd59843cb1f11f96e7dbbf2a4958bda113ca0f69308",
+   "subject": "6"
+  },
+  {
+   "file": "B06_S1_MOTION/B07_20240118_openloop_08.mat",
+   "bytes": 22238473,
+   "sha256": "053926673c430e1f39a6118fdae56279e4c308d06a75adaac2007f15991461ef",
+   "subject": "6"
+  },
+  {
+   "file": "B06_S1_MOTION/B07_20240118_openloop_09.mat",
+   "bytes": 22231966,
+   "sha256": "ffec96298a0b35372b1adb3f13e6957537016c1b593afc6e25d2b16def817bab",
+   "subject": "6"
+  },
+  {
+   "file": "B06_S1_MOTION/B07_20240118_openloop_10.mat",
+   "bytes": 22252028,
+   "sha256": "4772d49f66fe8cc7f96d5bb1dc5419eef26ad28ce5236f4d6a1ce52fb3333590",
+   "subject": "6"
+  },
+  {
+   "file": "B06_S1_MOTION/B07_20240118_openloop_11.mat",
+   "bytes": 22252267,
+   "sha256": "71f4c998dcaedcbb6c45e377179698b44091e3e8a72d6054abd288afd8b066b2",
+   "subject": "6"
+  },
+  {
+   "file": "B06_S1_STATIC/B07_20240118_openloop_01.mat",
+   "bytes": 22218255,
+   "sha256": "671ed47222d2c6895d1b538e66d0fd1342bf545fbb06c802cf0baa3546c7a72d",
+   "subject": "6"
+  },
+  {
+   "file": "B06_S1_STATIC/B07_20240118_openloop_02.mat",
+   "bytes": 22232909,
+   "sha256": "f9b7b9f79d27c8f55a648ae6bc2ae8afd7d3de38b199edafc142db12a65ddf0a",
+   "subject": "6"
+  },
+  {
+   "file": "B06_S1_STATIC/B07_20240118_openloop_03.mat",
+   "bytes": 22236911,
+   "sha256": "2556a0ffc14aa9e6e7dfdff9a48ce891e78cc37906f8866850f8ca35173aa88f",
+   "subject": "6"
+  },
+  {
+   "file": "B06_S1_STATIC/B07_20240118_openloop_04.mat",
+   "bytes": 22254475,
+   "sha256": "51f1539ee186dde62268ccb322cf1255999e3a51b0ae655916b9c3b97899be27",
+   "subject": "6"
+  },
+  {
+   "file": "B06_S1_STATIC/B07_20240118_openloop_05.mat",
+   "bytes": 22193091,
+   "sha256": "fbe21841d57ad780d12bf98f9cd5ccc71c019193546575b4bf65202d32ed30d0",
+   "subject": "6"
+  },
+  {
+   "file": "B06_S1_STATIC/B07_20240118_openloop_06.mat",
+   "bytes": 22150763,
+   "sha256": "a2c7654a6927f69c311766b07f1b1e9c55bb3c41ae0291406c86aaa6fb4f920f",
+   "subject": "6"
+  },
+  {
+   "file": "B06_S1_STATIC/B07_20240118_openloop_07.mat",
+   "bytes": 22246206,
+   "sha256": "409e50544969cbaaadc82979b1be3f689597e5738d572da251f158005aadd98e",
+   "subject": "6"
+  },
+  {
+   "file": "B06_S1_STATIC/B07_20240118_openloop_08.mat",
+   "bytes": 22239019,
+   "sha256": "b6ca8c33f83985aa7af352ccb25aeb61edcd45d9d185f7cd64ff05f3bd5fa129",
+   "subject": "6"
+  },
+  {
+   "file": "B06_S1_STATIC/B07_20240118_openloop_09.mat",
+   "bytes": 22226152,
+   "sha256": "9460a41583bf7c77d16e34aae4057caecba5828d56785f1045d38bae8a228d37",
+   "subject": "6"
+  },
+  {
+   "file": "B06_S1_STATIC/B07_20240118_openloop_10.mat",
+   "bytes": 22227017,
+   "sha256": "4aab5d6f0ab95a12dd285ba7ae7491475124a80364cbbdf85b2edfe9e38550f6",
+   "subject": "6"
+  },
+  {
+   "file": "B06_S1_STATIC/B07_20240118_openloop_11.mat",
+   "bytes": 22175093,
+   "sha256": "7cbc5a66b446e5cfffa10e2796d5e64e2e3a3b15ecdda3e40c6ba957eb68a907",
+   "subject": "6"
+  }
+ ]
+}
