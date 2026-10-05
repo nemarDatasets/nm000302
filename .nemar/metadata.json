@@ -1,6 +1,11 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
+  "title": "PoloHortiguela2025: Motor imagery of ankle dorsiflexion/plantarflexion dataset",
+  "description": "Open-loop EEG dataset of kinesthetic motor imagery of lower-limb ankle dorsiflexion/plantarflexion alternated with relaxation, recorded from six healthy participants. Each participant completed two sessions, one with a static and one with a motion lower-limb exoskeleton model, using 28 EEG channels plus EOG at 250 Hz. This BIDS re-release was generated with MOABB from the original Zenodo deposit.",
+  "methods_description": "EEG was recorded at 250 Hz from 28 EEG channels, 4 EOG channels and 3 auxiliary channels (standard_1005 montage, 50 Hz line frequency). Participants performed cue-based (auditory) kinesthetic motor imagery of ankle dorsiflexion/plantarflexion versus rest in 4 s trials, over 11 runs per session, with a static or a motion exoskeleton.",
+  "license": "CC-BY-4.0",
+  "dataset_type": "derivative",
   "authors": {
     "Cristina Polo-Hortiguela": {
       "orcid": "0009-0008-1841-8209",
@@ -43,6 +48,26 @@
       ]
     }
   },
+  "keywords": [
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "motor imagery"
+    },
+    {
+      "term": "ankle dorsiflexion"
+    },
+    {
+      "term": "plantarflexion"
+    },
+    {
+      "term": "lower-limb exoskeleton"
+    },
+    {
+      "term": "brain-computer interface"
+    }
+  ],
   "related_identifiers": [
     {
       "identifier": "10.5281/zenodo.14672334",
@@ -90,14 +115,11 @@
       "award_title": "ValgrAI"
     }
   ],
-  "title": "PoloHortiguela2025",
-  "license": "CC-BY-4.0",
-  "dataset_type": "derivative",
   "resource_type_general": "Dataset",
+  "resource_type_specific": "EEG Dataset",
   "modalities": [
     "eeg"
   ],
-  "resource_type_specific": "EEG Dataset",
   "sizes": [
     "149 MB (133 files)"
   ],
@@ -105,34 +127,8 @@
     ".edf",
     ".json",
     ".tsv",
-    ".yaml"
+    ".yaml",
+    ".yml"
   ],
-  "description": "Open-loop EEG dataset of lower-limb kinesthetic motor imagery of ankle dorsiflexion and plantarflexion alternated with relaxation, recorded from six healthy participants. Each participant completed two sessions, one with a static and one with a motion lower-limb exoskeleton model. Data were recorded with 28 EEG channels plus EOG and auxiliary channels at 250 Hz and are provided in a BIDS-formatted derivative through MOABB.",
-  "methods_description": "Participants performed cue-based (auditory) kinesthetic motor imagery of ankle dorsiflexion/plantarflexion alternating with rest, in trials of 4 s, over 11 runs per session in two sessions (static and motion exoskeleton). EEG was recorded at 250 Hz from 28 EEG channels with 4 EOG and 3 miscellaneous channels, using a standard_1005 montage.",
-  "keywords": [
-    {
-      "term": "EEG"
-    },
-    {
-      "term": "motor imagery"
-    },
-    {
-      "term": "brain-computer interface"
-    },
-    {
-      "term": "exoskeleton"
-    },
-    {
-      "term": "ankle dorsiflexion"
-    },
-    {
-      "term": "plantar flexion"
-    },
-    {
-      "term": "Electroencephalography",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
-    }
-  ],
-  "source_hash": "2f1cca6dda9488e2813c0090876b992ae4f93a7c695742afeddf279554bb5006"
+  "source_hash": "7b70cb7c6c2f94373de06aeaf8315e3f3711447b9aa4a6875ab72519a014d454"
 }
