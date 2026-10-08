@@ -1,46 +1,50 @@
 {
-    "Name": "PoloHortiguela2025: Motor imagery of ankle dorsiflexion/plantarflexion dataset",
-    "BIDSVersion": "1.9.0",
-    "HEDVersion": "8.4.0",
-    "DatasetType": "derivative",
-    "License": "CC-BY-4.0",
-    "Authors": [
-        "Cristina Polo-Hortiguela",
-        "Mario Ortiz",
-        "Eduardo Ianez",
-        "Jose M. Azorin"
-    ],
-    "Funding": [
-        "PID2021-124111OB-C31 (MICIU/AEI/10.13039/501100011033, ERDF EU)",
-        "PRE2022-103336 (MICIU/AEI/10.13039/501100011033)",
-        "ValgrAI (Generalitat Valenciana, European Union)",
-        "Neurokit (ICAR)"
-    ],
-    "ReferencesAndLinks": [
-        "https://doi.org/10.5281/zenodo.14672334"
-    ],
-    "Keywords": [
-        "healthy",
-        "motor",
-        "imagery"
-    ],
-    "DatasetDOI": "doi:10.5281/zenodo.14672334",
-    "GeneratedBy": [
-        {
-            "CodeURL": "https://github.com/NeuroTechX/moabb",
-            "Name": "moabb",
-            "Description": "Mother of All BCI Benchmarks",
-            "Version": "1.8.0dev0"
-        }
-    ],
-    "SourceDatasets": [
-        {
-            "DOI": "10.5281/zenodo.14672334",
-            "URL": "https://doi.org/10.5281/zenodo.14672334"
-        }
-    ],
-    "PublicationYear": 2025,
-    "EthicsApprovals": [
-        "See the primary publication cited in the README/ReferencesAndLinks for the ethics approval statement obtained by the original investigators; no new human-subject data were collected for this BIDS re-release."
-    ]
+  "Name": "PoloHortiguela2025: Motor imagery of ankle dorsiflexion/plantarflexion dataset",
+  "BIDSVersion": "1.9.0",
+  "HEDVersion": "8.4.0",
+  "DatasetType": "derivative",
+  "License": "CC-BY-4.0",
+  "Authors": [
+    "Cristina Polo-Hortiguela",
+    "Mario Ortiz",
+    "Eduardo Ianez",
+    "Jose M. Azorin"
+  ],
+  "Funding": [
+    "PID2021-124111OB-C31 (MICIU/AEI/10.13039/501100011033, ERDF EU)",
+    "PRE2022-103336 (MICIU/AEI/10.13039/501100011033)",
+    "ValgrAI (Generalitat Valenciana, European Union)",
+    "Neurokit (ICAR)"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.5281/zenodo.14672334"
+  ],
+  "Keywords": [
+    "healthy",
+    "motor",
+    "imagery"
+  ],
+  "DatasetDOI": "10.82901/nemar.nm000302",
+  "GeneratedBy": [
+    {
+      "CodeURL": "https://github.com/NeuroTechX/moabb",
+      "Name": "moabb",
+      "Description": "Mother of All BCI Benchmarks",
+      "Version": "1.8.0dev0"
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "DOI": "10.5281/zenodo.14672334",
+      "URL": "https://doi.org/10.5281/zenodo.14672334"
+    },
+    {
+      "DOI": "doi:10.5281/zenodo.14672334"
+    }
+  ],
+  "PublicationYear": 2025,
+  "EthicsApprovals": [
+    "See the primary publication cited in the README/ReferencesAndLinks for the ethics approval statement obtained by the original investigators; no new human-subject data were collected for this BIDS re-release."
+  ],
+  "Version": "1.0.0"
 }
